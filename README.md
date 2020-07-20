@@ -19,7 +19,7 @@ Oficinas que ajudei a organizar:
 🐭 In my master's degree I study the evolution of a group of rodents involving different data in an integrative way! </p>
 📖 I am currently learning Data Science, Statistics, Python and R, and its applications in biological data. </p>
 :raising_hand: Pronouns: she/her </p>
-💬 You can reach me at [Twitter](twitter.com/mariguilardi) 
+💬 You can reach me at [Twitter](twitter.com/mariguilardi) </p> 
 💪 I collaborate with PyLadies São Paulo and RLadies São Paulo </p>
 
 Workshops I helped organize (only in brazilian portuguese):
