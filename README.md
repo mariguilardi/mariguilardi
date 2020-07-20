@@ -4,6 +4,8 @@
 🐭 Em meu mestrado estudo a evolução de um grupo de roedores envolvendo diferentes dados de forma integrativa! <br>  
 📖 Estou estudando Ciência de Dados, Estatística, Python e R, e suas aplicações em dados biológicos. <br>  
 💪 Colaboro com PyLadies São Paulo e RLadies São Paulo <br> 
+📈 Participo do [Duck Duck Go](https://duckduckgo.com)
+  [Grupo de Estudos em Ciência de Dados das PyLadies São Paulo](https://github.com/mariguilardi/data-science) <br>
 :raising_hand: Pronomes: ela/a </p> 
 
 Oficinas que ajudei a organizar:  
@@ -18,6 +20,7 @@ Oficinas que ajudei a organizar:
 🐭 In my master's degree I study the evolution of a group of rodents involving different data in an integrative way! <br> 
 📖 I am currently learning Data Science, Statistics, Python and R, and its applications in biological data. <br> 
 💪 I collaborate with PyLadies São Paulo and RLadies São Paulo <br> 
+📈 I participate in the [Data Science Study Group of PyLadies São Paulo](https://github.com/mariguilardi/data-science) 
 :raising_hand: Pronouns: she/her </p> 
 
 Workshops I helped organize (only in brazilian portuguese):
