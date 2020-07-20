@@ -4,8 +4,7 @@
 🐭 Em meu mestrado estudo a evolução de um grupo de roedores envolvendo diferentes dados de forma integrativa! <br>  
 📖 Estou estudando Ciência de Dados, Estatística, Python e R, e suas aplicações em dados biológicos. <br>  
 💪 Colaboro com PyLadies São Paulo e RLadies São Paulo <br> 
-📈 Participo do [Duck Duck Go](https://duckduckgo.com)
-  [Grupo de Estudos em Ciência de Dados das PyLadies São Paulo](https://github.com/mariguilardi/data-science) <br>
+📈 Participo do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo
 :raising_hand: Pronomes: ela/a </p> 
 
 Oficinas que ajudei a organizar:  
@@ -13,6 +12,10 @@ Oficinas que ajudei a organizar:
  * [R Básico](https://github.com/beatrizmilz/2020-R-Ladies-SP-Basico)
  * [Apresentações no R com 'xaringan'](https://github.com/beatrizmilz/aMostra-IME-2019-Xaringan)
  * [Introdução a Estatística com Pandas](https://github.com/mariguilardi/data-science/tree/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas)
+ 
+Outro materiais que produzi ou ajudei a produzir:
+ * [Anotações sobre versionamento de arquivos com Git e GitHub](https://github.com/mariguilardi/git_e_github)
+ * [Materiais do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo](https://github.com/mariguilardi/data-science)
   
 ### Welcome! 👋
 
@@ -28,3 +31,7 @@ Workshops I helped organize (only in brazilian portuguese):
  * [Basics of R](https://github.com/beatrizmilz/2020-R-Ladies-SP-Basico)
  * [Presentations in R with 'xaringan'](https://github.com/beatrizmilz/aMostra-IME-2019-Xaringan)
  * [Introduction to Statistics with Pandas](https://github.com/mariguilardi/data-science/tree/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas)
+
+Other materials that I produced or helped produce (only in brazilian portuguese):
+ * [File versioning notes with Git and GitHub](https://github.com/mariguilardi/git_e_github)
+ * [Materials from the Data Science Study Group of PyLadies São Paulo](https://github.com/mariguilardi/data-science)
