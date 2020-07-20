@@ -1,8 +1,7 @@
 ### Boas vindas! 👋 
 
-<p> 👩‍🔬 Sou biológa e mestranda em Biotecnologia em São Paulo, Brasil. <br> 
-🐭 Em meu mestrado estudo a evolução de um grupo de roedores envolvendo diferentes dados de forma integrativa! <br>  
-📖 Estou estudando Ciência de Dados, Estatística, Python e R, e suas aplicações em dados biológicos. <br>  
+<p> 👩‍🔬 Sou biológa e mestranda em Biotecnologia em São Paulo, Brasil <br> 
+📖 Estou estudando Ciência de Dados, Estatística, Python e R, e suas aplicações em dados biológicos (como dados citogenéticos, climáticos e genéticos) <br>  
 💪 Colaboro com PyLadies São Paulo e RLadies São Paulo <br> 
 📈 Participo do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo <br>
 :raising_hand: Pronomes: ela/a </p> 
@@ -19,9 +18,8 @@ Outro materiais que produzi ou ajudei a produzir:
   
 ### Welcome! 👋
 
-<p> 👩‍🔬 I am a  biologist and Master's student in Biotechnology in São Paulo, Brazil. <br> 
-🐭 In my master's degree I study the evolution of a group of rodents involving different data in an integrative way! <br> 
-📖 I am currently learning Data Science, Statistics, Python and R, and its applications in biological data. <br> 
+<p> 👩‍🔬 I am a  biologist and Master's student in Biotechnology in São Paulo, Brazil <br> 
+📖 I am currently learning Data Science, Statistics, Python and R, and its applications in biological data (such as cytogenetic, climatic and genetic data) <br> 
 💪 I collaborate with PyLadies São Paulo and RLadies São Paulo <br> 
 📈 I participate in the Data Science Study Group of PyLadies São Paulo <br> 
 :raising_hand: Pronouns: she/her </p> 
