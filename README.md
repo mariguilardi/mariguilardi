@@ -4,8 +4,8 @@
 🐭 Em meu mestrado estudo a evolução de um grupo de roedores envolvendo diferentes dados de forma integrativa! </p>  
 📖 Estou estudando Ciência de Dados, Estatística, Python e R, e suas aplicações em dados biológicos. </p>
 :raising_hand: Pronouns: ela/a </p>
-💬 [Twitter](twitter.com/mariguilardi) </p>  
 💪 Colaboro com PyLadies São Paulo e RLadies São Paulo </p>
+Você pode encontrar no [Twitter](twitter.com/mariguilardi) </p> 
 
 Oficinas que ajudei a organizar:  
  * [Fundamentos em R](https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP) 
