@@ -16,7 +16,9 @@ Oficinas que ajudei a organizar:
 Outro materiais que produzi ou ajudei a produzir:
  * [Anotações sobre versionamento de arquivos com Git e GitHub](https://github.com/mariguilardi/git_e_github)
  * [Materiais do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo](https://github.com/mariguilardi/data-science)
-  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### Welcome! 👋
 
 <p> 👩‍🔬 I am a  biologist and Master's student in Biotechnology in São Paulo, Brazil <br> 
