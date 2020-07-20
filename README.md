@@ -8,7 +8,7 @@
 
 Materiais que produzi ou ajudei a produzir:
  * [Anotações sobre versionamento de arquivos com Git e GitHub](https://github.com/mariguilardi/git_e_github)
- * [Materiais do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo](https://github.com/mariguilardi/data-science)
+ * [Trilha de Estudos do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo](https://github.com/mariguilardi/data-science/tree/master/Trilha%20de%20Estudos)
 
 Oficinas que auxiliei na organização:  
  * [Fundamentos em R](https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP) 
@@ -31,7 +31,7 @@ Oficinas que auxiliei na organização:
 
 Materials that I produced or helped produce (only in brazilian portuguese):
  * [File versioning notes with Git and GitHub](https://github.com/mariguilardi/git_e_github)
- * [Materials from the Data Science Study Group of PyLadies São Paulo](https://github.com/mariguilardi/data-science)
+ * [Materials from the Data Science Study Group of PyLadies São Paulo](https://github.com/mariguilardi/data-science/tree/master/Trilha%20de%20Estudos)
 
 Workshops I helped organize (only in brazilian portuguese):
  * [Fundamentals of R](https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP) 
