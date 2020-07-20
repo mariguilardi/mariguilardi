@@ -5,7 +5,7 @@
 📖 Estou estudando Ciência de Dados, Estatística, Python e R, e suas aplicações em dados biológicos. </p>
 :raising_hand: Pronouns: ela/a </p>
 💪 Colaboro com PyLadies São Paulo e RLadies São Paulo </p>
-Você pode encontrar no [Twitter](twitter.com/mariguilardi) </p> 
+💬 Você pode me encontrar no [Twitter](https://twitter.com/mariguilardi) </p> 
 
 Oficinas que ajudei a organizar:  
  * [Fundamentos em R](https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP) 
@@ -19,8 +19,8 @@ Oficinas que ajudei a organizar:
 🐭 In my master's degree I study the evolution of a group of rodents involving different data in an integrative way! </p>
 📖 I am currently learning Data Science, Statistics, Python and R, and its applications in biological data. </p>
 :raising_hand: Pronouns: she/her </p>
-💬 You can reach me at [Twitter](twitter.com/mariguilardi) </p> 
 💪 I collaborate with PyLadies São Paulo and RLadies São Paulo </p>
+💬 You can reach me at [Twitter](twitter.com/mariguilardi) </p> 
 
 Workshops I helped organize (only in brazilian portuguese):
  * [Fundamentals of R](https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP) 
