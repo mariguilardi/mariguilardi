@@ -1,6 +1,6 @@
 ### Boas vindas! 👋 
 
-<p> 👩‍🔬 Sou biológa e mestranda em Biotecnologia em São Paulo, Brasil. <br>
+<p> 👩‍🔬 Sou biológa e mestranda em Biotecnologia em São Paulo, Brasil. </p>
 🐭 Em meu mestrado estudo a evolução de um grupo de roedores envolvendo diferentes dados de forma integrativa! </p>  
 📖 Estou estudando Ciência de Dados, Estatística, Python e R, e suas aplicações em dados biológicos. </p>
 :raising_hand: Pronouns: ela/a </p>
@@ -15,12 +15,12 @@ Oficinas que ajudei a organizar:
   
 ### Welcome! 👋
 
-👩‍🔬 I am a  biologist and Master's student in Biotechnology in São Paulo, Brazil.
-🐭 In my master's degree I study the evolution of a group of rodents involving different data in an integrative way!
-📖 I am currently learning Data Science, Statistics, Python and R, and its applications in biological data. 
-:raising_hand: Pronouns: she/her 
-💬 You can reach me at [Twitter](twitter.com/mariguilardi) 
-💪 I collaborate with PyLadies São Paulo and RLadies São Paulo
+<p> 👩‍🔬 I am a  biologist and Master's student in Biotechnology in São Paulo, Brazil. </p>
+🐭 In my master's degree I study the evolution of a group of rodents involving different data in an integrative way! </p>
+📖 I am currently learning Data Science, Statistics, Python and R, and its applications in biological data. </p>
+:raising_hand: Pronouns: she/her </p>
+💬 You can reach me at [Twitter](twitter.com/mariguilardi) </p>
+💪 I collaborate with PyLadies São Paulo and RLadies São Paulo </p>
 
 Workshops I helped organize (only in brazilian portuguese):
  * [Fundamentals of R](https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP) 
