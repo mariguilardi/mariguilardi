@@ -3,7 +3,7 @@
 <p> 👩‍🔬 Sou biológa e mestranda em Biotecnologia em São Paulo, Brasil. </p>
 🐭 Em meu mestrado estudo a evolução de um grupo de roedores envolvendo diferentes dados de forma integrativa! </p>  
 📖 Estou estudando Ciência de Dados, Estatística, Python e R, e suas aplicações em dados biológicos. </p>
-:raising_hand: Pronouns: ela/a </p>
+:raising_hand: Pronomes: ela/a </p>
 💪 Colaboro com PyLadies São Paulo e RLadies São Paulo </p>
 💬 Você pode me encontrar no [Twitter](https://twitter.com/mariguilardi) </p> 
 
