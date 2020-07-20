@@ -28,7 +28,7 @@ Outro materiais que produzi ou ajudei a produzir:
 :raising_hand: Pronouns: she/her </p> 
 
 Workshops I helped organize (only in brazilian portuguese):
- * [Fundamentals of R](https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP) 
+ + [Fundamentals of R](https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP) 
  * [Basics of R](https://github.com/beatrizmilz/2020-R-Ladies-SP-Basico)
  * [Intermediate R](https://github.com/beatrizmilz/2019-02-R-Interm-R-LadiesSP)
  * [Presentations in R with 'xaringan'](https://github.com/beatrizmilz/aMostra-IME-2019-Xaringan)
