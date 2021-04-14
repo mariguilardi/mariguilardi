@@ -9,7 +9,7 @@
 
 Materiais que produzi ou ajudei a produzir:
  * [Anotações sobre versionamento de arquivos com Git e GitHub](https://github.com/mariguilardi/git_e_github)
- * [Trilha de Estudos do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo](hhttps://pyladiessp.github.io/data-science/)
+ * [Trilha de Estudos do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo](https://pyladiessp.github.io/data-science/)
 
 Oficinas que auxiliei na organização:  
  * [Fundamentos em R](https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP) 
