@@ -7,7 +7,7 @@
 📈 Participo do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo <br>
 :raising_hand: Pronomes: ela/a </p> 
 
-Mais informações em meu [site pessoal](mariguilardi.github.io)
+Mais informações em meu [site pessoal](mariguilardi.github.io).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -21,4 +21,4 @@ Mais informações em meu [site pessoal](mariguilardi.github.io)
 :raising_hand: Pronouns: she/her </p> 
 
 
-More information in my [personal website](mariguilardi.github.io)
+More information in my [personal website](mariguilardi.github.io).
