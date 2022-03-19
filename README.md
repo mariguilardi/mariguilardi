@@ -12,11 +12,11 @@ Materiais que produzi ou ajudei a produzir:
  * [Trilha de Estudos do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo](https://pyladiessp.github.io/data-science/)
 
 Oficinas que auxiliei na organização:  
- * [Fundamentos em R](https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP) 
- * [R Básico](https://github.com/beatrizmilz/2020-R-Ladies-SP-Basico)
- * [R Intermediário](https://github.com/beatrizmilz/2019-02-R-Interm-R-LadiesSP)
- * [Apresentações no R com 'xaringan'](https://github.com/beatrizmilz/aMostra-IME-2019-Xaringan)
- * [Introdução a Estatística com Pandas](https://github.com/mariguilardi/data-science/tree/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas)
+ * [Fundamentos em R](https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/#1) 
+ * [R Básico](https://beatrizmilz.github.io/2020-R-Ladies-SP-Basico/)
+ * [R Intermediário](https://beatrizmilz.github.io/2019-02-R-Interm-R-LadiesSP/#1)
+ * [Apresentações no R com 'xaringan'](https://beatrizmilz.github.io/aMostra-IME-2019-Xaringan/#1)
+ * [Introdução a Estatística com Pandas](https://github.com/mariguilardi/data-science/blob/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas/Workshop%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%20e%20Pandas%20Respostas.pdf)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -34,8 +34,8 @@ Materials that I produced or helped produce (only in brazilian portuguese):
  * [Materials from the Data Science Study Group of PyLadies São Paulo](https://pyladiessp.github.io/data-science/)
 
 Workshops that I organized (only in brazilian portuguese):
- * [Fundamentals of R](https://github.com/mariguilardi/2019-05-Fundamentals-Of-R-R-LadiesSP) 
- * [Basics of R](https://github.com/beatrizmilz/2020-R-Ladies-SP-Basico)
- * [Intermediate R](https://github.com/beatrizmilz/2019-02-R-Interm-R-LadiesSP)
- * [Presentations in R with 'xaringan'](https://github.com/beatrizmilz/aMostra-IME-2019-Xaringan)
- * [Introduction to Statistics with Pandas](https://github.com/mariguilardi/data-science/tree/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas)
+ * [Fundamentals of R](https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/#1) 
+ * [Basics of R](https://beatrizmilz.github.io/2020-R-Ladies-SP-Basico/)
+ * [Intermediate R](https://beatrizmilz.github.io/2019-02-R-Interm-R-LadiesSP/#1)
+ * [Presentations in R with 'xaringan'](https://beatrizmilz.github.io/aMostra-IME-2019-Xaringan/#1)
+ * [Introduction to Statistics with Pandas](https://github.com/mariguilardi/data-science/blob/master/workshops/workshop_introdu%C3%A7%C3%A3o_estatistica_pandas/Workshop%20Introdu%C3%A7%C3%A3o%20a%20Estat%C3%ADstica%20e%20Pandas%20Respostas.pdf)
