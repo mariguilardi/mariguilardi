@@ -1,6 +1,6 @@
 ### Boas vindas! 👋 
 
-<p> 👩‍🔬 Sou biológa e mestre em Biotecnologia <br> 
+<p> 👩‍🔬 Sou bióloga e mestre em Biotecnologia <br> 
 📖 Estou estudando Estatística, Python, R e SQL <br> 
 📚 Tenho interesses em Ciências de Dados e Bioinformática <br>
 💪 Colaboro com PyLadies São Paulo e RLadies São Paulo <br> 
@@ -23,7 +23,7 @@ Oficinas e palestras que participei como palestrante ou auxiliei na elaboração
 
 ### Welcome! 👋
 
-<p> 👩‍🔬 I have a Master's degree in Biotechnology and bachelor in Biology <br> 
+<p> 👩‍🔬 I have a Master's degree in Biotechnology and a bachelor degree in Biology <br> 
 📖 I am currently learning Statistics, Python, R and SQL <br>
 📚 I am interested in Data Science and Bioinformatics <br>
 💪 I collaborate with PyLadies São Paulo and RLadies São Paulo <br> 
