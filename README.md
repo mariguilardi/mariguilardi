@@ -1,10 +1,8 @@
 ### Boas vindas! 👋 
 
-<p> 👩‍🔬 Sou bióloga e mestre em Biotecnologia <br> 
-📖 Estou estudando Estatística, Python, R e SQL <br> 
-📚 Tenho interesses em Ciências de Dados e Bioinformática <br>
-💪 Colaboro com PyLadies São Paulo e RLadies São Paulo <br> 
-📈 Participo do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo <br>
+<p> 👩‍🔬 Sou bióloga e doutoranda em Bioinformática <br> 
+📖 Estou estudando Estatística, Machine Learning, Python e R <br> 
+📚 Tenho interesses em Bioinformática e Ciências de Dados <br>
 :raising_hand: Pronomes: ela/a </p> 
 
 Materiais que produzi ou ajudei a produzir:
@@ -23,11 +21,9 @@ Oficinas e palestras que participei como palestrante ou auxiliei na elaboração
 
 ### Welcome! 👋
 
-<p> 👩‍🔬 I have a Master's degree in Biotechnology and a bachelor degree in Biology <br> 
-📖 I am currently learning Statistics, Python, R and SQL <br>
-📚 I am interested in Data Science and Bioinformatics <br>
-💪 I collaborate with PyLadies São Paulo and RLadies São Paulo <br> 
-📈 I participate in the Data Science Study Group of PyLadies São Paulo <br> 
+<p> 👩‍🔬 I am a PhD student in Bioinformatics and I have a bachelor degree in Biology <br> 
+📖 I am currently learning Machine Learning, Statistics, Python and R <br>
+📚 I am interested in Bioinformatics and Data Science <br>
 :raising_hand: Pronouns: she/her </p> 
 
 Materials that I produced or helped produce (only in brazilian portuguese):
