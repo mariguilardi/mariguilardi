@@ -28,11 +28,11 @@ Oficinas e palestras que participei como palestrante ou auxiliei na elaboração
 :raising_hand: Pronouns: she/her </p> 
 
 Materials that I produced or helped produce (only in brazilian portuguese):
- * [R applied to Bioinformatic analysis](https://github.com/mariguilardi/bioinfoUNIFESP/tree/main)
  * [File versioning notes with Git and GitHub](https://github.com/mariguilardi/git_e_github)
  * [Materials from the Data Science Study Group of PyLadies São Paulo](https://pyladiessp.github.io/data-science/)
 
-Workshops and talks that I participated as a speaker or helped in the elaboration :
+Workshops and talks that I participated as a speaker or helped in the elaboration:
+ * [R applied to Bioinformatic analysis](https://github.com/mariguilardi/bioinfoUNIFESP/tree/main)
  * [Fundamentals of R](https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/#1) 
  * [Basics of R](https://beatrizmilz.github.io/2020-R-Ladies-SP-Basico/)
  * [Intermediate R](https://beatrizmilz.github.io/2019-02-R-Interm-R-LadiesSP/#1)
