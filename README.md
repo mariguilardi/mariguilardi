@@ -10,6 +10,7 @@ Materiais que produzi ou ajudei a produzir:
  * [Trilha de Estudos do Grupo de Estudos em Ciência de Dados das PyLadies São Paulo](https://pyladiessp.github.io/data-science/)
 
 Oficinas e palestras que participei como palestrante ou auxiliei na elaboração:
+ * [Primeiros passos em análises de dados e visualizações gráficas com Python](https://github.com/mariguilardi/STBioPython/tree/main)
  * [R aplicado às análises de Bioinformática](https://github.com/mariguilardi/bioinfoUNIFESP/tree/main)
  * [Fundamentos em R](https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/#1) 
  * [R Básico](https://beatrizmilz.github.io/2020-R-Ladies-SP-Basico/)
