@@ -28,11 +28,12 @@ Oficinas e palestras que participei como palestrante ou auxiliei na elaboração
 📚 I am interested in Bioinformatics and Data Science <br>
 :raising_hand: Pronouns: she/her </p> 
 
-Materials that I produced or helped produce (only in brazilian portuguese):
+Study materials that I produced or collaborated on (only in brazilian portuguese):
  * [File versioning notes with Git and GitHub](https://github.com/mariguilardi/git_e_github)
  * [Materials from the Data Science Study Group of PyLadies São Paulo](https://pyladiessp.github.io/data-science/)
 
-Workshops and talks that I participated as a speaker or helped in the elaboration:
+Workshops and talks that I participated as a speaker or collaborated on the production (only in brazilian portuguese):
+ * [First steps in data analysis and graphical visualizations with Python](https://github.com/mariguilardi/STBioPython/tree/main)
  * [R applied to Bioinformatic analysis](https://github.com/mariguilardi/bioinfoUNIFESP/tree/main)
  * [Fundamentals of R](https://mariguilardi.github.io/2019-05-Fundamentals-Of-R-R-LadiesSP/#1) 
  * [Basics of R](https://beatrizmilz.github.io/2020-R-Ladies-SP-Basico/)
